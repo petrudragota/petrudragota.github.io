@@ -1,7 +1,10 @@
+div {
+	background: rgba(50, 50, 50, 0.5);
+}
 p {
 	color: white;
 	font-size: 28px;
-	text-shadow: 2px 1px black;
+
 }
 
 div {

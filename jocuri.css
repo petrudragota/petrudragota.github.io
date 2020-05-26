@@ -1,3 +1,6 @@
+div {
+	background: rgba(50, 50, 50, 0.5);
+}
 a:link {
 	color: white;
 }
@@ -15,8 +18,7 @@ h2 {
 table, th, td {
 	border: 2px solid white;
 	border-collapse: collapse;
-	background-color: black;
-	opacity: 75%;
+	background: rgba(0, 0, 0, 0.5);
 }
 
 th, td {
